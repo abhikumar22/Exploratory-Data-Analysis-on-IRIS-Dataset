@@ -6,4 +6,4 @@
 
 - Copy and paste the link here **[nbviewer](https://nbviewer.jupyter.org/)**
 
-- Dataset Information :-**[IRIS](http://archive.ics.uci.edu/ml/datasets/Iris)**
+- Dataset Information :- **[IRIS](http://archive.ics.uci.edu/ml/datasets/Iris)**
